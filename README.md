@@ -49,7 +49,7 @@ I'm particularly interested in **game engineering, gameplay systems, and backend
 
 ## 🚀 Featured Projects
 
-### 🎮 [Mighty Type — Typing Battle Game](YOUR_MIGHTY_TYPE_REPO_URL)
+### 🎮 [Mighty Type — Typing Battle Game](https://github.com/nadhifaiz/Create-a-New-Team-Name...-IFEST-2026)
 
 A typing-based combat game inspired by Monkeytype, where players battle AI enemies by completing sentences accurately. Every completed sentence triggers an attack, with higher damage rewarded for error-free typing.
 
@@ -57,7 +57,7 @@ A typing-based combat game inspired by Monkeytype, where players battle AI enemi
 - **Accuracy-Based Combat:** Deal greater damage by completing sentences without mistakes.
 - **Game Design:** Combines typing speed, accuracy, and combat mechanics into a competitive experience.
 
-### 🧩 [Solo Ban — Sokoban Puzzle Game](YOUR_SOKOBAN_REPO_URL)
+### 🧩 [Solo Ban — Sokoban Puzzle Game](https://github.com/nadhifaiz/Solo-Ban)
 
 A Sokoban-inspired puzzle game built with Unity and C#, featuring grid-based movement, box-pushing puzzles, and structured level management.
 
@@ -65,15 +65,15 @@ A Sokoban-inspired puzzle game built with Unity and C#, featuring grid-based mov
 - **Level Architecture:** ScriptableObject-based level data and modular level rendering.
 - **Game Features:** Undo movement and puzzle progression.
 
-### 💻 [MyLaundry — Laundry Management System](YOUR_MYLAUNDRY_REPO_URL)
+### 💻 [ZeroTwo Laundry — Integrated Laundry Management System](https://github.com/nadhifaiz/Laundry-System)
 
-A laundry management web application designed to streamline service workflows through a RESTful backend and a React-based frontend.
+An integrated laundry management web application designed to streamline service workflows and operational processes.
 
-- **Backend:** Spring Boot REST API and application logic.
-- **Frontend:** React interface and checkout workflow.
-- **Database:** PostgreSQL integration.
+- **Backend:** Laravel (PHP), MySQL.
+- **Frontend:** Laravel Blade.
+- **Features:** Order tracking, service management, and operational workflows.
 
-### 🅿️ [Parking Management System](YOUR_PARKING_REPO_URL)
+### 🅿️ [Parking Management System](https://github.com/nadhifaiz/ParkingSystem)
 
 A campus parking management application developed to support parking operations, user management, and reporting.
 
@@ -100,7 +100,7 @@ A campus parking management application developed to support parking operations,
 
 I'm always open to learning, collaborating, and building interesting things with other developers.
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/m-faiznadhif-r)
 - 📧 Email: m.faiznadhif.r@gmail.com
 - 🐙 GitHub: [@nadhifaiz](https://github.com/nadhifaiz)
 
